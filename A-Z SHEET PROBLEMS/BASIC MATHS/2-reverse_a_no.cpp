@@ -10,3 +10,4 @@ int reverse_no(int N)
   }
   return rev;
 }
+//t.c=O(N), s.c=O(1)
