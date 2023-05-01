@@ -1,6 +1,3 @@
-#include<bits/stdc++.h>
-
-using namespace std;
 //METHOD 1,TC=O(n),SC=O(1)
 int count_digits( int n )
 {
