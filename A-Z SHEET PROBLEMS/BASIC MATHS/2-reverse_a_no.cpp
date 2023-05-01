@@ -10,4 +10,4 @@ int reverse_no(int N)
   }
   return rev;
 }
-//t.c=O(N), s.c=O(1)
+//t.c=O(logN), s.c=O(1)
