@@ -1,3 +1,6 @@
+/*DEFN:  Armstrong number is the number in any given number base, which forms the total of the same number, 
+when each of its digits is raised to the power of the number of digits in the number.
+EX:153,1634 etc..   */
 bool ArmstrongNumber(int n)
 {
     int originalno = n;
